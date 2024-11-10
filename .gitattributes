@@ -1,0 +1,2 @@
+*.onnx filter=lfs diff=lfs merge=lfs -text
+Projekt/ConsoleApp5/bin/Debug/net8.0/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime filter=lfs diff=lfs merge=lfs -text
